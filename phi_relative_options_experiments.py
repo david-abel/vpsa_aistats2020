@@ -407,8 +407,8 @@ def branching_factor_experiment(min_options=0, max_options=20, increment=2, inst
 #########################################################################
 
 def main():
-    # branching_factor_experiment(1, 5, 1, instances=25, epsilon=0.05)
-    run_learning_experiment()
+    branching_factor_experiment(1, 5, 1, instances=25, epsilon=0.05)
+    # run_learning_experiment()
 
 if __name__ == "__main__":
     main()
