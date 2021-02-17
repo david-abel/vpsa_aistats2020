@@ -7,4 +7,4 @@ To reproduce Figure 2 run _phi_relative_options_experiments.py.py_
 
 To reproduce any of the other figures in the Appendix, change which agent class is used in the above file. 
 
-Please contact Dave with any questions (david_abel@brown.edu).
+Please contact Dave with any questions (david_abel@alumni.brown.edu).
